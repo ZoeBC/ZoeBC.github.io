@@ -16,7 +16,12 @@
     vertical-align: bottom;
     color: #505050;
     background-color: #CBC3E3;
+     .center {
+    margin: auto;
+    width: 65%;
+    padding: 10px;
   }
+
 
   hr{
     padding: 0px;
